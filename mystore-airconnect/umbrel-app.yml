@@ -1,0 +1,28 @@
+manifestVersion: 1
+id: mystore-airconnect
+name: Airconnect
+tagline: Chromecast to aircast entity
+icon: https://www.freeiconspng.com/uploads/apple-icon-29.jpg
+category: Development
+version: "1.0.0"
+port: 25565
+description: >-
+  Add your app's description here.
+
+
+  You can also add newlines!
+
+developer: itzg
+website: https://github.com/1activegeek/docker-airconnect
+submitter: mascot
+submission: https://github.com/1activegeek/docker-airconnect
+repo: https://github.com/1activegeek/docker-airconnect
+support: https://github.com/1activegeek/docker-airconnect/issues
+gallery:
+  - https://www.freeiconspng.com/uploads/apple-icon-29.jpg
+releaseNotes: >-
+  Nothing here
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

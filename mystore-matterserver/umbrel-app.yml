@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: mystore-matterserver
+name: Matter Server
+tagline: Just a matter server
+icon: https://avatars.githubusercontent.com/u/63743711?s=48&v=4
+category: Development
+version: "1.0.0"
+port: 25565
+description: >-
+  Nothing here
+
+developer: itzg
+website: https://github.com/home-assistant-libs/python-matter-server
+submitter: mascot
+submission: https://github.com/home-assistant-libs/python-matter-server
+repo: https://github.com/home-assistant-libs/python-matter-server
+support: https://github.com/home-assistant-libs/python-matter-server/issues
+gallery:
+  - https://avatars.githubusercontent.com/u/63743711?s=48&v=4
+releaseNotes: >-
+  Nothing here
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""

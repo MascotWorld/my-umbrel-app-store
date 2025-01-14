@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+  python-matter-server:
+    container_name: matter-server
+    restart: unless-stopped
+    security_opt:
+      - apparmor=unconfined
+    volumes: []
+    network_mode: host
+    image: ghcr.io/home-assistant-libs/python-matter-server:stable

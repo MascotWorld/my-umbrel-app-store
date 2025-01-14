@@ -1,0 +1,11 @@
+version: "3.7"
+services:
+  airconnect:
+    network_mode: host
+    image: 1activegeek/airconnect
+    volumes:
+      - /home/root/data/airconnect:/config
+    environment:
+      - AIRCAST_VAR=-x /config/config.xml
+      - AIRUPNP_VAR=kill
+    restart: unless-stopped

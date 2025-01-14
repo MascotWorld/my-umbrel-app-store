@@ -1,7 +1,7 @@
 manifestVersion: 1
 id: mystore-mcs
 name: Minecraft Server
-tagline: Replace this tagline with your app's tagline
+tagline: Just a minecraft server
 icon: https://www.freeiconspng.com/thumbs/minecraft-png-icon/minecraft-icon-0.png
 category: Development
 version: "1.0.0"
@@ -12,18 +12,16 @@ description: >-
 
   You can also add newlines!
 
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
+developer: itzg
+website: https://docker-minecraft-server.readthedocs.io/
+submitter: mascot
 submission: https://github.com/itzg/docker-minecraft-server
 repo: https://github.com/itzg/docker-minecraft-server
 support: https://github.com/itzg/docker-minecraft-server/issues
 gallery:
   - https://www.freeiconspng.com/thumbs/minecraft-png-icon/minecraft-icon-0.png
-  - https://www.freeiconspng.com/thumbs/minecraft-png-icon/minecraft-icon-0.png
-  - https://www.freeiconspng.com/thumbs/minecraft-png-icon/minecraft-icon-0.png
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  Nothing here
 dependencies: []
 path: ""
 defaultUsername: ""
