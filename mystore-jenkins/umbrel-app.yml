@@ -1,0 +1,28 @@
+manifestVersion: 1
+id: mystore-jenkins
+name: Jenkins
+tagline: Jenkins
+icon: https://www.jenkins.io/images/logos/jenkins/jenkins.svg
+category: Development
+version: "1.0.0"
+port: 8081
+description: >-
+  Add your app's description here.
+
+
+  You can also add newlines!
+
+developer: itzg
+website: https://www.jenkins.io/
+submitter: mascot
+submission: https://www.jenkins.io/
+repo: https://www.jenkins.io/
+support: https://www.jenkins.io/
+gallery:
+  - https://www.jenkins.io/images/logos/jenkins/jenkins.svg
+releaseNotes: >-
+  Nothing here
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
