@@ -1,6 +1,6 @@
 services:
   matter-hub:
-    image: ghcr.io/t0bst4r/home-assistant-matter-hub:v3.0.0-alpha.92
+    image: ghcr.io/t0bst4r/home-assistant-matter-hub:3.0.0-alpha.92
     restart: unless-stopped
     network_mode: host
     environment:
