@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: mystore-matterhub
+name: Matter Hub
+tagline: Just a matter hub
+icon: https://t0bst4r.github.io/home-assistant-matter-hub/
+category: Development
+version: "1.0.0"
+port: 25565
+description: >-
+  Nothing here
+
+developer: t0bst4r
+website: https://t0bst4r.github.io/home-assistant-matter-hub/
+submitter: mascot
+submission: https://github.com/t0bst4r/home-assistant-matter-hub
+repo: https://github.com/t0bst4r/home-assistant-matter-hub
+support: https://github.com/t0bst4r/home-assistant-matter-hub/issues
+gallery:
+  - https://t0bst4r.github.io/home-assistant-matter-hub/build/hamh-logo-small-5283e719bf1fbc3825cc55d2c5294749.png
+releaseNotes: >-
+  Nothing here
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
