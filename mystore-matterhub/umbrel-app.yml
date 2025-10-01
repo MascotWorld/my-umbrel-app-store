@@ -1,11 +1,11 @@
-manifestVersion: 1
+manifestVersion: 2
 id: mystore-matterhub
 name: Matter Hub
 tagline: Just a matter hub
 icon: https://t0bst4r.github.io/home-assistant-matter-hub/
 category: Development
-version: "1.0.0"
-port: 25565
+version: "1.0.1"
+port: 8482
 description: >-
   Nothing here
 

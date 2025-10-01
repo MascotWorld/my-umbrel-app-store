@@ -1,12 +1,13 @@
 services:
   matter-hub:
-    image: ghcr.io/t0bst4r/home-assistant-matter-hub:latest
+    image: ghcr.io/t0bst4r/home-assistant-matter-hub:v3.0.0-alpha.92
     restart: unless-stopped
     network_mode: host
-    environment: # more options can be found in the configuration section
-      - HAMH_HOME_ASSISTANT_URL=http://umbrel.local:8123/
-      - HAMH_HOME_ASSISTANT_ACCESS_TOKEN=ey...ZI
+    environment:
+      - HAMH_HOME_ASSISTANT_URL=http://192.168.1.94:8123/
+      - HAMH_HOME_ASSISTANT_ACCESS_TOKEN=token
       - HAMH_LOG_LEVEL=info
       - HAMH_HTTP_PORT=8482
     volumes:
       - $PWD/home-assistant-matter-hub:/data
+    container_name: mystore-matterhub_matter-hub_1
